@@ -14,7 +14,7 @@
 
 ## Overview
 
-This documentation provides details about an Embedded LCD System project developed by a team of developers. The system allows users to print values on an LCD using a keypad.
+The system allows users to print values on an LCD using a keypad.
 
 ## Features
 
